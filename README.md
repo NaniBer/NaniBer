@@ -12,7 +12,6 @@
 - 🤖 **AI/LLMs:** Fine-tuning models, RAG pipelines, LangChain, vector databases
 - 🔧 **Backend:** Node.js, Express, Flask, PostgreSQL, MongoDB, GraphQL
 - 🎨 **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- ☁️ **Cloud & DevOps:** Docker, Vercel, Supabase, CI/CD
 
 ---
 
@@ -39,7 +38,6 @@
 | [**Dermit**](https://dermit.online) | Teledermatology platform with secure messaging, Telegram notifications, subscriptions | Next.js, Supabase, Node.js |
 | [**Emotion Classifier**](https://huggingface.co/) | NLP model fine-tuned for emotional tone detection | Python, SetFit, Hugging Face |
 | [**Word of Truth**](#) | Offline-first bilingual Bible PWA (Amharic/English) | Next.js, TypeScript, PWA |
-| [**Andinet**](https://github.com/NaniBer/Andinet) | Learning Management System with multi-role access | MERN Stack |
 
 ---
 
